@@ -14,7 +14,7 @@ function BD(){
     document.getElementById("hey").style.display = "none";
     document.getElementById("B").style.display = "none";
     document.getElementById("and").style.display = "block"
-    document.getElementById("video").style.display = "block"
+    document.getElementById("video").style.display = "none"
     document.body.style.backgroundImage = "url('rick-astly-rick-rolled.gif')"
     var a = document.getElementById("song");
     a.play();
