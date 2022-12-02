@@ -1,0 +1,22 @@
+#Birth{
+    display: none;
+    background-position: center;
+    background-size: cover;
+}
+#BDY{
+    height: 300px;
+    Width: 300px;
+    border-width:10px;
+    border-style:ridge;
+    display:none;
+}
+#song{
+    display:none;
+}
+#and{
+    display:none;
+}
+#video
+{
+    display: none;
+}
